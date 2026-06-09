@@ -8,7 +8,7 @@ export const projectsData: Project[] = [
     categoryLabel: "Schools",
     description: "An elegant, highly structured portal designed for deep academic communication, admissions management, and resource accessibility.",
     detailedDescription: "The absolute standard for primary and higher academies. Features fully organized department blocks, admission pathways, active calendar indices, and news engine configurations designed to look beautiful and professional across all devices.",
-    image: "/src/assets/images/project_school_1780999295515.png",
+    image: "https://media.licdn.com/dms/image/v2/D4E22AQHsEs5uaXn0Yw/feedshare-shrink_1280/B4EZ6sXgYWJIAM-/0/1781008304003?e=1782345600&v=beta&t=1cyAB4y3aAp4ucutwVWZ7PZKdh8xsvR5_YWmveUJAfI",
     year: "2025",
     stats: [
       { label: "Load Speed", value: "Fast" },
@@ -32,7 +32,7 @@ export const projectsData: Project[] = [
     categoryLabel: "Real Estate",
     description: "A sophisticated properties explorer with smooth transitions, modern listings search, and media-rich presentation formats.",
     detailedDescription: "An immersive property presentation platform optimized for elite residential offerings. Equipped with interactive grids, filter engines, WhatsApp direct routing, and quick downloadable specifications sheets to bridge listings and client contacts.",
-    image: "/src/assets/images/project_realestate_1780999309231.png",
+    image: "https://media.licdn.com/dms/image/v2/D4E22AQFHL15NDMhVTg/feedshare-shrink_1280/B4EZ6sXgKbHkAQ-/0/1781008303058?e=1782345600&v=beta&t=od4T-B08f8A2g2lXtUEWIPFKzLT51VkfHBfol7jSw5o",
     year: "2026",
     stats: [
       { label: "Load Speed", value: "Fast" },
@@ -56,7 +56,7 @@ export const projectsData: Project[] = [
     categoryLabel: "Businesses",
     description: "A bold, Swiss-style corporate showcase featuring expansive negative space, high-speed layout components, and clean contact channels.",
     detailedDescription: "Perfect for strategic service agencies, startups, or executive professional practices. Combines pristine visual grid structures with modern SEO headers, click-to-chat automation, and active lead collection options to convert visitors instantly.",
-    image: "/src/assets/images/project_business_1780999325197.png",
+    image: "https://media.licdn.com/dms/image/v2/D4E22AQEGkH1EpMj00Q/feedshare-shrink_1280/B4EZ6sXgeRJkAM-/0/1781008304382?e=1782345600&v=beta&t=SzdPxu7BtZZwmwsxOhHUMN6_DM_MaHcMAHiVRu37bsE",
     year: "2025",
     stats: [
       { label: "Load Speed", value: "Fast" },
